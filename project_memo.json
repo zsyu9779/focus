@@ -1,0 +1,37 @@
+{
+    "project_overview": {
+        "description": "An iOS app for habit tracking and self-discipline with gamified pet growth mechanics.",
+        "tech_stack": [
+            "SwiftUI",
+            "SwiftData",
+            "FamilyControls",
+            "ManagedSettings",
+            "DeviceActivity"
+        ]
+    },
+    "completed_milestones": [],
+    "available_apis_tools": {},
+    "current_work_in_progress": [
+        "Create PRODUCT_SPEC.md"
+    ],
+    "future_plans": [
+        "Resume code development based on confirmed spec",
+        "Implement DeviceActivity monitor extension",
+        "Integrate real assets for pets instead of Emojis",
+        "Implement widget support",
+        "Add social features",
+        "Refine growth logic and add animations"
+    ],
+    "session_logs": [
+        {
+            "timestamp": "2025-11-27T10:30:00Z",
+            "summary": "Initialized project with SwiftUI and SwiftData. Created core models and views.",
+            "changes": "Created FocusApp.swift, Models/Habit.swift, Models/Pet.swift, Models/FocusSession.swift, Views/HomeView.swift, Views/AddHabitView.swift, Views/FocusView.swift, Views/ForestView.swift"
+        },
+        {
+            "timestamp": "2025-11-27T10:35:00Z",
+            "summary": "Wrote files to disk.",
+            "changes": "Created Models and Views directories and populated them with Swift files."
+        }
+    ]
+}
